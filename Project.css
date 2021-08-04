@@ -17,6 +17,7 @@
     
     /* background-color: yellow; */
     /* justify-content: center; */
+    z=-1
 }   
 #navbar::before{   /*note :: ke rt and lt me koi space nahi chorna nahi toh problem ho jayegi*/
     content: "";
