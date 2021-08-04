@@ -79,7 +79,8 @@
 }
 #home::before{
     content: "";
-    background:url('projectimg/bg1.jpg') no-repeat center center/cover ; 
+/*     background:url('projectimg/bg1.jpg') no-repeat center center/cover ;  */
+    background:url('https://images.unsplash.com/photo-1505826759037-406b40feb4cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NTV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60') no-repeat center center/cover ; 
     /* agar apan ek folder k ander aur file other folder k ander tb '../' use kiya tha video me,but apaneko yaha need nahi hai*/
     position: absolute;
     bottom: 64px;
